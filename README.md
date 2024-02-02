@@ -11,9 +11,9 @@
 ---
 
 ### Stats
-![Rahul Aanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulaanand&theme=vue&show_icons=true&hide_border=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulaanand&theme=vue-light&hide_border=true)
+![Rahul Aanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulaanand&show_icons=true&hide_border=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulaanand&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulaanand&theme=default&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulaanand&show_icons=true&hide_border=true&layout=compact)
 
 ---
 ### Skills
